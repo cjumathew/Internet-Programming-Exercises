@@ -1,0 +1,47 @@
+.csym019 {
+  border-radius: 5px;
+  border: 3px solid #666;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  background-color: lightseagreen;
+  display: block;
+  width: 40%;
+  float: left;
+ }
+    
+ .csym015 {
+  border-radius: 5px;
+  border: 3px solid #666;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  background-color: yellow;
+  display: block;
+  width: 40%;
+  float: left;
+ } 
+
+ .csym028 {
+  border-radius: 5px;
+  border: 3px solid #666;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  background-color: lightgrey;
+  display: block;
+  width: 40%;
+  float: left;
+ } 
+
+ .csym017 {
+  border-radius: 5px;
+  border: 3px solid #666;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  padding: 5px;
+  background-color: lightskyblue;
+  display: block;
+  width: 40%;
+  float: left;
+ } 
